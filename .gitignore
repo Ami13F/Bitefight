@@ -1,0 +1,5 @@
+*.vscode
+.metals
+__pycache__/
+*.idea/
+config.py
